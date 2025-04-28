@@ -5,7 +5,8 @@
 
 <h3 align="center">Welcome!<br>I build custom large language models, intelligent AI systems, and a wide array of data-driven solutions. From NLP to predictive analytics, I tackle complex challenges with innovation and precision. Explore my work and feel free to reach out!</h3>
 
-###
+__________________________________________________________________________________________________________________________________
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -93,7 +94,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
 
-###
+__________________________________________________________________________________________________________________________________
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
