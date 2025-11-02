@@ -23,10 +23,3 @@
 </div>
 
 
-###
-
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3kyczQxbHE3Y2N3Z3I0aHQ2dmVuMHVjOTBxYmZ3M2c2eDVzaHA1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
-</div>
-
-###
